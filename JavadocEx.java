@@ -77,7 +77,6 @@ public abstract class Graphics {
      * @see             Image
      * @see             ImageObserver
      * @since           1.0
-	 * @since           now
      */
     public abstract boolean drawImage(Image img, int x, int y, 
                                       ImageObserver observer);
